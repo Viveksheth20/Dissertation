@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "node": "^21.6.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cst3145_cw2",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viveksheth20/CST3145_CW2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viveksheth20/CST3145_CW2/issues"
+  },
+  "homepage": "https://github.com/Viveksheth20/CST3145_CW2#readme"
+}
